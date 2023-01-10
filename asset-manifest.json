@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.88bba9a7.css",
-    "main.js": "/static/js/main.46180f5f.js",
-    "static/media/image8.png": "/static/media/image8.1e0970f13b72575879e8.png",
-    "static/media/image6.png": "/static/media/image6.7440a81fd5e032d8077d.png",
-    "static/media/image13.png": "/static/media/image13.dcae9ff51373850a8e19.png",
-    "static/media/image7.png": "/static/media/image7.fd90adab48acd0c87378.png",
-    "static/media/image14.png": "/static/media/image14.0b5ab22c026230c6ad29.png",
-    "static/media/image3.png": "/static/media/image3.4dc9c911b6d662e808c5.png",
-    "static/media/image11.png": "/static/media/image11.be30e2e8af192f2a613a.png",
-    "static/media/image4.png": "/static/media/image4.ac2a45531a4457ff3ce7.png",
-    "static/media/image1.png": "/static/media/image1.8ea2cafb7db4088f8e1a.png",
-    "static/media/image2.png": "/static/media/image2.a3dd5bce43412f048b6b.png",
-    "static/media/image12.png": "/static/media/image12.70cd9928024552019c03.png",
-    "static/media/image10.png": "/static/media/image10.41eb6b33f685e293dbeb.png",
-    "index.html": "/index.html",
-    "main.88bba9a7.css.map": "/static/css/main.88bba9a7.css.map",
-    "main.46180f5f.js.map": "/static/js/main.46180f5f.js.map"
+    "main.css": "/ITsystem/static/css/main.88bba9a7.css",
+    "main.js": "/ITsystem/static/js/main.0ebab6cd.js",
+    "static/media/image8.png": "/ITsystem/static/media/image8.1e0970f13b72575879e8.png",
+    "static/media/image6.png": "/ITsystem/static/media/image6.7440a81fd5e032d8077d.png",
+    "static/media/image13.png": "/ITsystem/static/media/image13.dcae9ff51373850a8e19.png",
+    "static/media/image7.png": "/ITsystem/static/media/image7.fd90adab48acd0c87378.png",
+    "static/media/image14.png": "/ITsystem/static/media/image14.0b5ab22c026230c6ad29.png",
+    "static/media/image3.png": "/ITsystem/static/media/image3.4dc9c911b6d662e808c5.png",
+    "static/media/image11.png": "/ITsystem/static/media/image11.be30e2e8af192f2a613a.png",
+    "static/media/image4.png": "/ITsystem/static/media/image4.ac2a45531a4457ff3ce7.png",
+    "static/media/image1.png": "/ITsystem/static/media/image1.8ea2cafb7db4088f8e1a.png",
+    "static/media/image2.png": "/ITsystem/static/media/image2.a3dd5bce43412f048b6b.png",
+    "static/media/image12.png": "/ITsystem/static/media/image12.70cd9928024552019c03.png",
+    "static/media/image10.png": "/ITsystem/static/media/image10.41eb6b33f685e293dbeb.png",
+    "index.html": "/ITsystem/index.html",
+    "main.88bba9a7.css.map": "/ITsystem/static/css/main.88bba9a7.css.map",
+    "main.0ebab6cd.js.map": "/ITsystem/static/js/main.0ebab6cd.js.map"
   },
   "entrypoints": [
     "static/css/main.88bba9a7.css",
-    "static/js/main.46180f5f.js"
+    "static/js/main.0ebab6cd.js"
   ]
 }
